@@ -99,9 +99,6 @@ author:
   location         : "Seattle, WA"
   email            : hyeonwoo610@gmail.com
   links:
-    - label: "hyeonwoo610@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: hyeonwoo610@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
