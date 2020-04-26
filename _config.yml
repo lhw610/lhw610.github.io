@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyeon Woo Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Self-oriented machine learning engineer with a strong computer vision background. My interest is in applying machine learning and using statistical analysis to the real world problem."
+  location         : "Seattle, WA"
+  email            : hyeonwoo610@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,8 +121,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "LinkedIn"
+      icon: "www.linkedin.com/in/hyeon-woo-lee"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
