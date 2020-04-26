@@ -99,7 +99,7 @@ author:
   location         : "Seattle, WA"
   email            : hyeonwoo610@gmail.com
   links:
-    - label: "Email"
+    - label: "hyeonwoo610@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: hyeonwoo610@gmail.com
     - label: "Website"
@@ -108,6 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      # icon: "fab fa-fw fa-linkedin-square"
+      url: https://www.linkedin.com/in/hyeon-woo-lee/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -121,9 +124,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: https://www.linkedin.com/in/hyeon-woo-lee/
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
