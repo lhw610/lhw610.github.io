@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: hyeonwoo610@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,8 +122,8 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "www.linkedin.com/in/hyeon-woo-lee"
-      # url:
+      icon: "fab fa-fw fa-linkedin-square"
+      url: https://www.linkedin.com/in/hyeon-woo-lee/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
