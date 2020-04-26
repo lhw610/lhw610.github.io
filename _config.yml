@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyeon Woo Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "../photos/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Self-oriented machine learning engineer with a strong computer vision background. My interest is in applying machine learning and using statistical analysis to the real world problem."
   location         : "Seattle, WA"
   email            : hyeonwoo610@gmail.com
