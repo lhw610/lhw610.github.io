@@ -106,7 +106,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      # icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin-square"
       url: https://www.linkedin.com/in/hyeon-woo-lee/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
