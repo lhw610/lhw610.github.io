@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /about/
-title: "Posts by Tag"
 author_profile: true
 ---
-## test page
+I am a machine leanring engineer with a specialty in computer vision at Allen Institute for Cell Science. 
