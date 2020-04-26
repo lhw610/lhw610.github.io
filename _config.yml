@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyeon-Woo Lee personal website"
+title                    : "Hyeon Woo Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyeon Woo Lee"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Hyeon Woo Lee"
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Self-oriented machine learning engineer with a strong computer vision background. My interest is in applying machine learning and using statistical analysis to the real world problem."
+  bio              : "Self-oriented machine learning engineer"
   location         : "Seattle, WA"
-  email            : hyeonwoo610@gmail.com
+  # email            : hyeonwoo610@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/lhw610"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
