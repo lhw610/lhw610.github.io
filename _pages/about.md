@@ -1,8 +1,8 @@
 ---
-layout: archive
-permalink: /about/
-author_profile: true
+title:  "Welcome to Jekyll!"
 ---
+
+# Welcome
 
 I am a machine learning engineer with a specialty in computer vision at Allen Institute for Cell Science. Previously, I obtaine Master's Degree in Biomedical Engineering with biomedical data science concentration at Cornell University.
 
