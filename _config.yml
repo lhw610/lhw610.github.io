@@ -97,7 +97,7 @@ author:
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Self-oriented machine learning engineer"
   location         : "Seattle, WA"
-  # email            : hyeonwoo610@gmail.com
+  email            : hyeonwoo610@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -271,11 +271,11 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages #posts
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # strue
       comments: # true
       share: true
       related: true
