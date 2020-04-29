@@ -23,7 +23,7 @@ I collaborated with computer scientists and biologist to develop a deep learning
 Allen Institute for Cell Science<br />
 *Python-based open source toolkit developed at the Allen Insttitue for Cell Science for 3D segmentation of intracellular structures in fluorescence microscopic image.*
 
-[Allen Cell Structural Segmenter](https://www.allencell.org/segmenter.html) is powerful tool that can generate and curate training dataset, train deep learning model, and segment structures. Multiple modules and networks that I worked on are integrated into this open source toolkit. I developed and packaged deep learning-based cell pair detector by implementing Faster-RCNN. This framework is very versatile and can be applied to various types of cell detection tasks. I also developed a deep learning based 2D segmentation model for highly complex cell structure segmentation with spatial data augmentation and variant form of DeeplabV3+.
+[Allen Cell Structural Segmenter](https://www.allencell.org/segmenter.html) is powerful tool that can generate and curate training dataset, train deep learning model, and segment structures with trained model. Multiple modules and networks that I worked on are integrated into this open source toolkit. I developed and packaged deep learning-based cell pair detector by implementing Faster-RCNN. This framework is very versatile and can be applied to various types of cell detection tasks. With spatial data augmentation and variant form of DeeplabV3+, I developed a deep learning based 2D segmentation tool for the highly complex shaped cell structures.
 
 <img src="/images/segmenter.png"  width="800" height="600">
 

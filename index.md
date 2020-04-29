@@ -16,14 +16,14 @@ header:
 I'm a full-time **Computer Vision Engineer** at **[Allen Institute for Cell Science](https://alleninstitute.org/what-we-do/cell-science/)** in Seattle since July 2019.
 ---
 
-*I work on research problems in computer vision, deep learning, and statistical analysis. At Allen Institute, I am developing open source tools for microscopic cell image analysis such as **[Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html)**. As a member of Assay Development Team, I design an algorithms to process and analyze quantitative information from biological data. This includes algorithm design, feasibility test, and pipeline implementation*
+*I work on research problems in computer vision, deep learning, and statistical analysis. At Allen Institute, I am developing an open source tools for microscopic cell image analysis such as **[Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html)**. As a member of Assay Development Team, I design an algorithms to process and analyze quantitative information from biological data. This includes algorithm design, feasibility test, and pipeline implementation*
 
 ## Previous work experiences
 
 - **Machine Learning Research Assistant** - Cornell University:
   *Aug 2018 - Jun 2019*<br />
   Graudate research assistant at **[Sabuncu Lab](http://sabuncu.engineering.cornell.edu/)**. <br />
-  3D brain MR image segmentation using multi-atlas segmentation (MAS) with semi-supervised learning based registration.
+  3D brain MR image segmentation using multi-atlas segmentation with semi-supervised learning based registration.
 
 - **Medical Image Analysis Research Assistant** - University of Rochester:  
   *May 2017 - Jan 2018*<br />
