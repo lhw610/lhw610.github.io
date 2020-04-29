@@ -1,3 +1,5 @@
 main:
+  - title: "Home"
+    url: index.md
   - title: "Projects"
     url: /projects/
