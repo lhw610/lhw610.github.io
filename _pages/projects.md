@@ -23,7 +23,7 @@ Allen Institute for Cell Science<br />
 
 [Allen Cell Structural Segmenter](https://www.allencell.org/segmenter.html) is powerful tool that can generate and curate training dataset, train deep learning model, and segment structures. Multiple modules and networks that I worked on are integrated into this open source toolkit. I developed and packaged deep learning-based cell pair detector by implementing Faster-RCNN. This framework is very versatile and can be applied to various types of cell detection tasks. I also developed a deep learning based 2D segmentation model for highly complex cell structure segmentation with spatial data augmentation and variant form of DeeplabV3+.
 
-<img src="/images/segmenter.png"  width="700" height="500">
+<img src="/images/segmenter.png"  width="800" height="600">
 
 ## 3D Brain Segmentation with Multi-Atlas Segmentation
 Sabuncu Lab, Cornell University<br />
@@ -35,4 +35,7 @@ Worked with [Dr.Mert Sabuncu](http://sabuncu.engineering.cornell.edu/), assistan
 
 ## 3D Brain Tumor Segmentation
 Wismueller Lab, University of Rochester Medical Center<br />
-*Implemented various machine learning and image processing algorithms to segment brain turom from 3D Brain MR Images*
+*Implemented various machine learning and image processing algorithms to segment brain turom from 3D Brain MR Images with MATLAB*
+
+Worked with [Dr.Anas Abidin](https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en) as an undergraduate research assistant. I utilized classical machine learning algorithm to perform binary tumor segmentation for the Brain MR images. Super-pixel clustering and support vector machine were used for initial segmentation. After, conditional random field was used to perform pixel-wise refinement for tumor-classified super-pixel. The skull stripping was done with region-growing algorithm and FMRIB Software Library.
+
