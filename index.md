@@ -32,10 +32,10 @@ I'm a full-time **Computer Vision Engineer** at **[Allen Institute for Cell Scie
 
 ## Education
 
-- **Master in Biomeical Engineering**<br />
+- **Master in Biomedical Engineering**<br />
     *Cornell University*, Ithaca, NY - 2019 <br />
     Concentration: Biomedical Data Science
 
-- **Bachelor in Biomeical Engineering**<br />
+- **Bachelor in Biomedical Engineering**<br />
     *University of Rochester*, Rochester, NY - 2017<br />
     Concentration: Biosignal and System
