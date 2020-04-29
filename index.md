@@ -20,7 +20,7 @@ I'm a full-time **Computer Vision Engineer** at **[Allen Institute for Cell Scie
 
 - **Machine Learning Research Assistant** - Cornell University:
   *Aug 2018 - Jun 2019*<br />
-  I worked as a graudate research assistant at **[Sabuncu Lab](http://sabuncu.engineering.cornell.edu/)**. <br />
+  Graudate research assistant at **[Sabuncu Lab](http://sabuncu.engineering.cornell.edu/)**. <br />
   3D brain MR image segmentation using multi-atlas segmentation (MAS) with semi-supervised learning based registration.
 
 - **Medical Image Analysis Research Assistant** - University of Rochester:  
