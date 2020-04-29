@@ -16,5 +16,5 @@ header:
 Peer Reviewed Workshop Publication<br />
 **Hyeon Woo Lee**, Mert R. Sabuncu, and Adrian V. Dalca.<br />
 *[Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation](https://arxiv.org/abs/1908.04466)*<br />
-Neural Information Processing Systems(NeurIPS) Machine Learning for Health (2019). [Acc. rate: 26.1%]<br />
-NeurIPS ML4H Travel Grant Award
+NeurIPS ML4H: Machine Learning for Health (2018), [Acc. rate: 26.1%]<br />
+**NeurIPS ML4H Travel Grant Award**
