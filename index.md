@@ -1,6 +1,7 @@
 ---
 title: 'Hyeon Woo Lee'
 layout: single
+classes: wide
 author_profile: true
 excerpt: 'Problem-Solving Enthusiast'
 header:
