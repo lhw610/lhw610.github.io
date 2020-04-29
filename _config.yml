@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyeon Woo Lee"
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Self-oriented machine learning engineer"
+  bio              : "Scientific Data Engineer-Image processing at Allen Institute for Cell Science"
   location         : "Seattle, WA"
   email            : hyeonwoo610@gmail.com
   links:
