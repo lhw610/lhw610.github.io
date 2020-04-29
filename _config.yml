@@ -20,7 +20,7 @@ title                    : "Hyeonwoo's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyeon Woo Lee"
-description              : "Self-oriented machine learning engineer"
+description              : "Scientific Data Engineer-Image processing at Allen Institute for Cell Science"
 url                      : "https://lhw610.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
