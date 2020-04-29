@@ -23,7 +23,7 @@ Allen Institute for Cell Science<br />
 
 [Allen Cell Structural Segmenter](https://www.allencell.org/segmenter.html) is powerful tool that can generate and curate training dataset, train deep learning model, and segment structures. Multiple modules and networks that I worked on are integrated into this open source toolkit. I developed and packaged deep learning-based cell pair detector by implementing Faster-RCNN. This framework is very versatile and can be applied to various types of cell detection tasks. I also developed a deep learning based 2D segmentation model for highly complex cell structure segmentation with spatial data augmentation and variant form of DeeplabV3+.
 
-![Overview](/images/segmenter.png){: .align-right .width-half}
+![](/images/segmenter.png){: .align-right .width-half}<br />
 
 ## 3D Brain Segmentation with Multi-Atlas Segmentation
 Sabuncu Lab, Cornell University<br />
@@ -31,8 +31,8 @@ Sabuncu Lab, Cornell University<br />
 
 Worked with [Dr.Mert Sabuncu](http://sabuncu.engineering.cornell.edu/), assistant professor at Cornell University, and [Dr.Adrian Dalca](http://www.mit.edu/~adalca/), assistant professor at Harvard Medical School and scientist at CSAIL at MIT. We tackled biomedical image segmentation in the scenario of only a few labeled brain MR images. We proposed a straightforward implementation of efficient semi-supervised learning-based registration method, which we showcase in a multi-atlas segmentation framework ([Voxelmorph](https://github.com/voxelmorph/voxelmorph)). Second, through an extensive empirical study, we evaluate the performance of a [supervised segmentation approach, where the training images are augmented via random deformations](https://github.com/lhw610/3D_UNet_Segmentation). Surprisingly, we find that in both paradigms, accurate segmentation is generally possible even in the context of few labeled images. Our work is accepted to **NeurIPS 2019 workshop ML4H [Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation](https://arxiv.org/abs/1908.04466)**.
 
-![Overall](/images/overall.jpg){: .align-right .width-half}
+![](/images/overall.jpg){: .align-right .width-half}<br />
 
 ## 3D Brain Tumor Segmentation
 Wismueller Lab, University of Rochester Medical Center<br />
-*Utilzied various machine learning and image processing algorithms to segment brain turom from 3D Brain MR Images*
+*Implemented various machine learning and image processing algorithms to segment brain turom from 3D Brain MR Images*
