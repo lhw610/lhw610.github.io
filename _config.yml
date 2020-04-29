@@ -277,5 +277,5 @@ defaults:
       author_profile: true
       read_time: # strue
       comments: # true
-      share: true
+      share: False
       related: true

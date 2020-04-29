@@ -19,19 +19,21 @@ I'm currently working at [Allen Institute for Cell Science](https://alleninstitu
 
 ## work experiences
 
-- **Machine Learning R&D Engineer** - Shanghai:  
+<!-- - **Machine Learning R&D Engineer** - Shanghai:  
   I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
 
 - **Research Assistant** - Daejon (South-Korea):  
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
 
 - **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
+  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques. -->
 
 ## Education
 
-- **Cornell University, Master in Biomeical Engineering** - Ithaca, NY, 2019:  
+- **Master in Biomeical Engineer**
+    Cornell University, Ithaca, NY - 2019  
     Concentration: Biomedical Data Science
-- **University of Rochester, Bachelor in Biomeical Engineering** - Rochester, NY 2017:
+- **Bachelor in Biomeical Engineering** 
+    University of Rochester, Rochester, NY - 2017:
     Concentration: Biosignal and System
 ---
