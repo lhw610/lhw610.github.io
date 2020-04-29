@@ -2,9 +2,11 @@
 layout: single
 permalink: /projects/
 author_profile: true
+excerpt: 'Problem-Solving Enthusiast'
+header:
+  overlay_image: /images/background.jpg
+  overlay_filter: 0.5
 ---
-
-# Projects
 
 ## Transfer Function
 R&D Project, Allen Institute for Cell Science
