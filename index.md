@@ -20,11 +20,13 @@ I'm a full-time **Computer Vision Engineer** at **[Allen Institute for Cell Scie
 
 - **Machine Learning Research Assistant** - Cornell University:
   *Aug 2018 - Jun 2019*<br />
-  I worked as a graudate research assistant at **[Sabuncu Lab](http://sabuncu.engineering.cornell.edu/)**. I worked on 3D brain MR image segmentation using resgistration. I developed a multi-atlas segmentation (MAS) with semi-supervised learning based registration which improves on existing MAS methods. Our work is accepted to NeurIPS 2019 workshop ML4H. **[Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation](https://arxiv.org/abs/1908.04466)**.
+  I worked as a graudate research assistant at **[Sabuncu Lab](http://sabuncu.engineering.cornell.edu/)**. <br />
+  3D brain MR image segmentation using multi-atlas segmentation (MAS) with semi-supervised learning based registration.
 
 - **Medical Image Analysis Research Assistant** - University of Rochester:  
   *May 2017 - Jan 2018*<br />
-  I worked as an undergraduated research asssitant at **[Wismueller Lab](https://www.urmc.rochester.edu/labs/wismueller.aspx)**. I worked on brain tumor segmentation from MR images using unsupervised clustering and conditional random field. 
+  Undergraduated research asssitant at **[Wismueller Lab](https://www.urmc.rochester.edu/labs/wismueller.aspx)**. <br />
+  Brain tumor segmentation from MR images using unsupervised clustering and conditional random field. 
 
 ## Education
 
