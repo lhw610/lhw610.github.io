@@ -30,4 +30,4 @@ Sabuncu Lab, Cornell University<br />
 
 Worked with [Dr.Mert Sabuncu](http://sabuncu.engineering.cornell.edu/), assistant professor at Cornell University, and [Dr.Adrian Dalca](http://www.mit.edu/~adalca/), assistant professor at Harvard Medical School and scientist at CSAIL at MIT. We tackled biomedical image segmentation in the scenario of only a few labeled brain MR images. We proposed a straightforward implementation of efficient semi-supervised learning-based registration method, which we showcase in a multi-atlas segmentation framework ([Voxelmorph](https://github.com/voxelmorph/voxelmorph)). Second, through an extensive empirical study, we evaluate the performance of a supervised segmentation approach, where the training images are augmented via random deformations (https://github.com/lhw610/3D_UNet_Segmentation). Surprisingly, we find that in both paradigms, accurate segmentation is generally possible even in the context of few labeled images.
 [Paper](https://arxiv.org/abs/1908.04466)
-![Overview](/images/overall.pdf)
+![Overview](/images/overall.jpg)
