@@ -13,7 +13,7 @@ header:
 I'm a full-time **Computer Vision Engineer** at [Allen Institute for Cell Science](https://alleninstitute.org/what-we-do/cell-science/) in Seattle, since July 2019.
 ---
 
-*I work on research problems in computer vision, deep learning, and statistical analysis. At Allen Institute, I am developing open source tools for microscopic cell image analysis. As a member of Assay Development Team, I design an algorithms to process and analyze quantitative information from biological data. This includes algorithm design, feasibility test, and pipeline implementation*
+*I work on research problems in computer vision, deep learning, and statistical analysis. At Allen Institute, I am developing open source tools for microscopic cell image analysis such as **[Allen Cell Structure Segmenter](https://www.allencell.org/segmenter.html)**. As a member of Assay Development Team, I design an algorithms to process and analyze quantitative information from biological data. This includes algorithm design, feasibility test, and pipeline implementation*
 
 ## Previous research experiences
 
