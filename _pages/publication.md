@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-## Publication
+## Publications
 Peer Reviewed Workshop Publication
 **Hyeon Woo Lee**, Mert R. Sabuncu, and Adrian V. Dalca.
 *[Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation](https://arxiv.org/abs/1908.04466)*
