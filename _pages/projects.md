@@ -4,7 +4,9 @@ layout: single
 classes: wide
 permalink: /projects/
 author_profile: true
-excerpt: 'Problem-Solving Enthusiast'
+excerpt: |
+    Problem-Solving Enthusiast <br />
+    Self-Oriented Machine Learning Engineer
 header:
   overlay_image: /images/background.jpg
   overlay_filter: 0.5
