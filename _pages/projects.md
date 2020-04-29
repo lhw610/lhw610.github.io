@@ -1,4 +1,5 @@
 ---
+title: 'Hyeon Woo Lee'
 layout: single
 permalink: /projects/
 author_profile: true
