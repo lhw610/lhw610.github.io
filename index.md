@@ -27,7 +27,7 @@ I'm a full-time **Computer Vision Engineer** at **[Allen Institute for Cell Scie
 
 - **Medical Image Analysis Research Assistant** - University of Rochester:  
   *May 2017 - Jan 2018*<br />
-  Undergraduated research asssitant at **[Wismueller Lab](https://www.urmc.rochester.edu/labs/wismueller.aspx)**. <br />
+  Undergraduate research asssitant at **[Wismueller Lab](https://www.urmc.rochester.edu/labs/wismueller.aspx)**. <br />
   Brain tumor segmentation from MR images using unsupervised clustering and conditional random field. 
 
 ## Education
