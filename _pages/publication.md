@@ -18,3 +18,5 @@ Peer Reviewed Workshop Publication<br />
 *[Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation](https://arxiv.org/abs/1908.04466)*<br />
 NeurIPS ML4H: Machine Learning for Health (2019), [Acc. rate: 26.1%]<br />
 **NeurIPS ML4H Travel Grant Award**
+
+<img src="/images/Neurips_poster.jpg"  width="600" height="900">
