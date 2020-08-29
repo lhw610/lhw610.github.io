@@ -13,10 +13,10 @@ header:
 
 # About me
 
-I'm a full-time **Associate Scientist, Ultrasound Applications** at **Philips Reseach North Amercia** in Cambridge since July 2020.
+I'm a full-time **Associate Scientist, Ultrasound Applications** at **Philips Reseach North Amercia** since July 2020.
 ---
 
-*I work on research problems in computer vision, deep learning, and statistical analysis for ultrasound applications.*
+*I research and develop AI based image analysis algorihtms for Philips ultrasound systems..*
 
 ## Previous work experiences
 - **Scientific Data Engineer** - Allen Institute for Cell Science:
