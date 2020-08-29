@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyeon Woo Lee"
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI Scientist at Philips"
+  bio              : "Associate Scientist at Philips"
   location         : "Cambridge, MA"
   email            : hyeonwoo610@gmail.com
   links:
