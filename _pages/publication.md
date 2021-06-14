@@ -15,7 +15,6 @@ header:
 ## Publications
 Peer Reviewed Publication<br />
 Kaytlyn A.Gerbin, Tanya Grancharova, Rory M.Donovan-Maiye, Melissa C.Hendershott, Helen G.Anderson, Jackson M.Brown, Jianxu Chen, Stephanie Q.Dinh, Jamie L.Gehring, Gregory R.Johnson, **HyeonWoo Lee**, Aditya Nath, Angelique M.Nelson, M. Filip Sluzewski, Matheus P.Viana, Calysta Yan, Rebecca J.Zaunbrecher, Kimberly R.Cordes Metzler, Nathalie Gaudreault, Theo A.Knijnenburg, Susanne M.Rafelski, Julie A.Theriot, Ruwanthi N.Gunawardane.<br />
-
 *[Cell states beyond transcriptomics: integrating structural organization and gene expression in hiPSC-derived cardiomyocytes](https://doi.org/10.1016/j.cels.2021.05.001)*<br />
 Cell Systems (2021) <br />
 
