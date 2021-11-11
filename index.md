@@ -13,7 +13,7 @@ header:
 
 # About me
 
-I'm a full-time **Associate Scientist, Ultrasound Applications** at **Philips Reseach North Amercia** since July 2020.
+I'm a full-time **AI Scientist, Ultrasound Applications** at **Philips Reseach North Amercia** since July 2020.
 ---
 
 *I research and develop AI based image analysis algorihtms for Philips ultrasound systems..*
