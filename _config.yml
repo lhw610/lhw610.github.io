@@ -20,7 +20,7 @@ title                    : "Hyeonwoo's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyeon Woo Lee"
-description              : "AI Scientist at Philips"
+description              : "Data Scientist at Philips"
 url                      : "https://lhw610.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyeon Woo Lee"
   avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Scientist at Philips"
+  bio              : "Data Scientist at Philips"
   location         : "Cambridge, MA"
   email            : hyeonwoo610@gmail.com
   links:
