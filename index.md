@@ -16,7 +16,7 @@ header:
 I'm a full-time **Data Scientist, Ultrasound AI** at **Philips Reseach North Amercia**
 ---
 
-*I research and develop AI based image analysis algorihtms for Philips ultrasound systems..*
+*I research and develop machine learning approaches for Philips ultrasound systems..*
 
 ## Previous work experiences
 - **Scientific Data Engineer** - Allen Institute for Cell Science:
