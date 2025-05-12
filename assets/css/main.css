@@ -235,13 +235,16 @@ ul {
 }
 
 .recent-update{
+  padding-top: 1rem;
   padding-bottom: 1.5rem;
+  margin-top: 0;  /* Add this */
 }
 
 .recent-update h3{
   color: #ff5622dc;
   margin: 0;
   border-bottom : 2px solid #ff5622dc;
+  margin-top: 0;
 }
 
 .recent-update .update1{
