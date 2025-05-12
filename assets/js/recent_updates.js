@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 contentCol.className = 'col-md-11';
                 const contentBox = document.createElement('div');
                 contentBox.className = 'event';
-                contentBox.textContent = update.content;
+                contentBox.innerHTML = update.content;  // ✅ Use innerHTML to render <a> tags
                 contentCol.appendChild(contentBox);
 
                 row.appendChild(dateCol);
