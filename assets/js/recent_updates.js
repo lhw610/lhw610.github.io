@@ -11,6 +11,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 const wrapper = document.createElement('div');
                 wrapper.className = flip ? 'update2' : 'update1';
 
+                const rowContainer = document.createElement('div');
+                rowContainer.className = 'row';
+
+                const col = document.createElement('div');
+                col.className = 'col-md-12';
+
                 const row = document.createElement('div');
                 row.className = 'row row-cols-2';
 
@@ -25,12 +31,14 @@ document.addEventListener('DOMContentLoaded', function () {
                 contentCol.className = 'col-md-11';
                 const contentBox = document.createElement('div');
                 contentBox.className = 'event';
-                contentBox.innerHTML = update.content;  // ✅ Use innerHTML to render <a> tags
+                contentBox.innerHTML = update.content;
                 contentCol.appendChild(contentBox);
 
                 row.appendChild(dateCol);
                 row.appendChild(contentCol);
-                wrapper.appendChild(row);
+                col.appendChild(row);
+                rowContainer.appendChild(col);
+                wrapper.appendChild(rowContainer);
                 container.appendChild(wrapper);
 
                 flip = !flip;
