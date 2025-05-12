@@ -24,7 +24,7 @@
      </button>
      <div class="collapse navbar-collapse" id="navbarToggle">
       <div class="navbar-nav ms-auto">
-       <a class="nav-item nav-link" href="/profile">
+       <a class="nav-item nav-link" href="index.html">
         Profile
        </a>
        <a class="nav-item nav-link" href="/projects">
@@ -217,40 +217,31 @@
      <h3>
       Recent Updates
      </h3>
-     <div id="recent-updates">
-     </div>
-     <!-- Dynamic content goes here -->
-     {% set ns.c = 1 %}
-            
+     {% if ns.c==0 %}
+                {% set cls = "update1" %}
                 
-                {% set ns.c = 0 %}
+            
+                {% set cls = "update2" %}
      <div class="{{ cls }}">
       <div class="col-md-12">
        <div class="row row-cols-2">
         <div class="col-md-1 d-flex align-items-center justify-content-center">
          <div class="event-date">
-          {{ date }}
          </div>
         </div>
         <div class="col-md-11">
          <div class="event">
-          {% if event|length==1 %}
-                                {{ event[0] }}
-                                {% elif  event|length==3%}
-                                    {{ event[0] }}
-          <a href="{{ event[2] }}" target="_blank">
-           {{ event[1] }}
+          <a href="" target="_blank">
           </a>
-          {{ event[0] }}
-          <a href="{{ event[2] }}" target="_blank">
-           {{ event[1] }}
+          <a href="" target="_blank">
           </a>
-          {{ event[3] }}
          </div>
         </div>
        </div>
       </div>
      </div>
+    </div>
+    <div id="recent-updates">
     </div>
    </section>
   </main>
