@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Hyeonwoo
+  </title>
+  <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" rel="stylesheet"/>
+  <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet" type="text/css"/>
+  <!-- <script src="{{ url_for('static', filename='script.js') }}"></script> -->
+  <script crossorigin="anonymous" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css" rel="stylesheet"/>
+  <header class="site-header">
+   <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+    <div class="container">
+     <a class="navbar-brand mr-4" href="/">
+      HyeonWoo's Homepage
+     </a>
+     <button aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarToggle" data-bs-toggle="collapse" type="button">
+      <span class="navbar-toggler-icon">
+      </span>
+     </button>
+     <div class="collapse navbar-collapse" id="navbarToggle">
+      <div class="navbar-nav ms-auto">
+       <a class="nav-item nav-link" href="/profile">
+        Profile
+       </a>
+       <a class="nav-item nav-link" href="/projects">
+        Projects
+       </a>
+       <a class="nav-item nav-link" href="/publications">
+        Publications
+       </a>
+      </div>
+     </div>
+    </div>
+   </nav>
+  </header>
+ </head>
+ <body>
+  <main class="container" role="main">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-12">
+      <section class="page-main">
+       <h1>
+        Projects
+       </h1>
+       <p>
+        Checkout my
+        <a href="https://github.com/lhw610">
+         GitHub
+        </a>
+        for code of selected projects
+       </p>
+      </section>
+     </div>
+    </div>
+    <div class="row">
+     <section class="project-sections">
+      <div class="col-md-12">
+       <h4>
+        Allen Cell Structural Segmenter
+       </h4>
+       <ul>
+        <li>
+         <span>
+          Allen Institute for Cell Science
+          <br/>
+          Python-based open source toolkit developed at the Allen Insttitue for Cell Science for 3D segmentation of intracellular structures in fluorescence microscopic image.
+         </span>
+        </li>
+        <li>
+         <a href="https://www.allencell.org/segmenter.html">
+          Allen Cell Structural Segmenter
+         </a>
+         is powerful tool that can generate and curate training dataset, train deep learning model, and segment structures with trained model. 
+                        Multiple modules and networks that I worked on are integrated into this open source toolkit. 
+                        I developed and packaged deep learning-based cell pair detector by implementing Faster-RCNN. 
+                        Furthermore, with spatial data augmentation and variant form of DeeplabV3+, I developed a deep learning based 2D segmentation tool for the highly complex shaped cell structures.
+                        This framework is very versatile and can be applied to various types of cell detection tasks. It is now available in AWS and Napari as plug-in.
+        </li>
+       </ul>
+       <img id="segmenter" src="assets/images/segmenter.png"/>
+      </div>
+      <hr/>
+      <div class="col-md-12">
+       <h4>
+        3D Brain Segmentation with Multi-Atlas Segmentation
+       </h4>
+       <ul>
+        <li>
+         <span>
+          Sabuncu Lab, Cornell University
+          <br/>
+          Proposed and implemented 3D segmentaiton algorithm using multi-atlas segmentation with sermi-supervised registration with brain MR image dataset.
+         </span>
+        </li>
+        <li>
+         Supervised by
+         <a href="https://sabuncu.engineering.cornell.edu">
+          Dr.Mert Sabuncu
+         </a>
+         and
+         <a href="https://www.mit.edu/~adalca/">
+          Dr.Adrian Dalca
+         </a>
+         . 
+                        We tackled biomedical image segmentation in the scenario of only a few labeled brain MR images exist. 
+                        We proposed a straightforward implementation of efficient semi-supervised learning-based registration method, which we showcase in a multi-atlas segmentation framework (
+         <a href="https://github.com/voxelmorph/voxelmorph">
+          Voxelmorph
+         </a>
+         ). 
+                        Second, through an extensive empirical study, we evaluate the performance of a supervised segmentation approach, where the training images are augmented via random deformations.
+                        I have implemented supervised segmentation model with U-Net using Tensorflow framework (
+         <a href="https://github.com/lhw610/3D_UNet_Segmentation">
+          repo
+         </a>
+         ).
+                        Surprisingly, we find that in both paradigms, accurate segmentation is generally possible even in the context of few labeled images.
+        </li>
+       </ul>
+       <img id="semi-supervised-segmentation" src="assets/images/semi-supervised-segmentation.jpg"/>
+      </div>
+     </section>
+    </div>
+   </div>
+  </main>
+ </body>
+</html>
