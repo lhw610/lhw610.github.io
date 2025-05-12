@@ -1,14 +1,58 @@
 [
   {
-    "date": "2025-05-01",
-    "content": "Submitted camera-ready version to MICCAI 2025!"
+    "date": "Oct 2023",
+    "content": "Patent in ultrasound in guidance is published in <a href=\"https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230320694\" target=\"_blank\">USPTO</a>"
   },
   {
-    "date": "2025-04-10",
-    "content": "Invited talk on Ultrasound AI at Harvard-MIT Health AI seminar"
+    "date": "May 2023 ",
+    "content": "Our two-stage feature detection for FAST exam gudiance is accepted to IEEE IUS"
   },
   {
-    "date": "2025-03-28",
-    "content": "Paper accepted to IEEE IUS 2025!"
+    "date": "May 2023",
+    "content": "AI-based FAST Exam guidance was presented at Society for Academic Emergency Medicine (SAEM)"
+  },
+  {
+    "date": "Dec 2022",
+    "content": "Our work in automoated cerebral vessel detection is presented at International Symposium on Intracranial pressure and Brain Monitoring (ICP)"
+  },
+  {
+    "date": "Oct 2022",
+    "content": "Presented <a href=\"https://www.annemergmed.com/article/S0196-0644(22)00649-7/fulltext\" target=\"_blank\">AI-based organ detection in ultrasound FAST exam</a> at American College of Emergency Physicians (ACEP)"
+  },
+  {
+    "date": "Sep 2022",
+    "content": "AI Assistance to Acquire High-Quality FAST Exams is presented at Military Health System Research Symposium (MHSRS)"
+  },
+  {
+    "date": "May 2022",
+    "content": "Promoted to Data Scientist - AI Based Medical Ultrasound Imaging Analysis"
+  },
+  {
+    "date": "Apr 2021",
+    "content": "Our work in Automated ultrasound methods for cerebral blood flow velocity measurement is presented at Point of Care Ultrasound conference"
+  },
+  {
+    "date": "Dec 2020",
+    "content": "Allen Cell and Structure Segmenter is published to <a href=\"https://www.biorxiv.org/content/10.1101/491035v2\" target=\"_blank\">bioRxiv</a>"
+  },
+  {
+    "date": "Dec 2019",
+    "content": "Check out my Master's research on <a href=\"https://arxiv.org/abs/1908.04466\" target=\"_blank\">Semi-Supervised Brain MR Image Segmentation</a> at Neurips 2019 ML4H"
+  },
+  {
+    "date": "May 2019",
+    "content": "Graduated from Cornell University with Master in Biomedical Engineering"
+  },
+  {
+    "date": "June 2021",
+    "content": "Co-authored research by developing cardiomyocytes segmentation model, <a href=\"https://www.sciencedirect.com/science/article/pii/S2405471221001563\" target=\"_blank\">Cell states beyond transcriptomic</a> is publisehd to Cell Systems"
+  },
+  {
+    "date": "July 2020",
+    "content": "Started working as Assocaite Data Scientist at Ultrasound Application Group, Precision Diagnosis and Image-Guided Therapy, Philips Research"
+  },
+  {
+    "date": "July 2019",
+    "content": "Started my professional career as Scientific Data Engineer at Allen Institute!"
   }
 ]
